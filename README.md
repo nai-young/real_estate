@@ -36,7 +36,7 @@ npm run test
 👤 **Naiche L. Young**
 
 * Website: naicheyoung.com
-* Twitter: [@naiche\_young](https://twitter.com/naiche\_young)
+* Twitter: [@naiche_young](https://twitter.com/naiche_young)
 * Github: [@nai-young](https://github.com/nai-young)
 * LinkedIn: [@naicheyoung](https://linkedin.com/in/naicheyoung)
 
