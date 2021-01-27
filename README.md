@@ -4,8 +4,8 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <a href="https://twitter.com/naiche\_young" target="_blank">
-    <img alt="Twitter: naiche\_young" src="https://img.shields.io/twitter/follow/naiche\_young.svg?style=social" />
+  <a href="https://twitter.com/naiche_young" target="_blank">
+    <img alt="Twitter: naiche_young" src="https://img.shields.io/twitter/follow/naiche_young.svg?style=social" />
   </a>
 </p>
 
