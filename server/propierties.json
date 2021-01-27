@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Comfortable House",
+    "status": "Sell",
+    "city": "London",
+    "type": "House",
+    "rooms": 3,
+    "baths": 1,
+    "price": 100000,
+    "image": ""
+  },
+  {
+    "title": "Comfortable Apartment",
+    "status": "Rent",
+    "city": "London",
+    "type": "Apartment",
+    "rooms": 3,
+    "baths": 1,
+    "price": 900,
+    "image": ""
+  },
+  {
+    "title": "Comfortable Studio",
+    "status": "Rent",
+    "city": "London",
+    "type": "Studio",
+    "rooms": 3,
+    "baths": 1,
+    "price": 600,
+    "image": ""
+  }
+]
